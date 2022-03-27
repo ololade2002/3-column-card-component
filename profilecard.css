@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: hsl(185, 75%, 39%);
+
+    background-image: url(images/bg-pattern-top.svg);
+    background-image: url(images/bg-pattern-bottom.svg);
+}
+.container {
+    height: 370px;
+    margin: auto;
+   margin-top: 150px;
+    width: 370px;
+    background-color: white;
+}
+
+.box {
+    height: 120px;
+    width: 370px;
+background-image: url(images/bg-pattern-card.svg);
+}
+.logo {
+margin: auto;
+background-image: url(images/image-victor.jpg);
+border-radius: 50%;
+height:     110px;
+margin-top: -50px;
+width: 110px;
+border: 6px solid white;
+}
+h1 {
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    margin: 20px 0px 0px 110px;
+    font-weight: 700;
+}
+h4 {
+    margin: -21px 0px 0px 215px;
+    color: hsl(0, 0%, 59%);
+    font-size: 18px;
+}
+.lon h6 {
+    color: hsl(0, 0%, 59%);
+   margin: auto;
+   text-align: center;
+   margin-top: 10px;
+  font-size: 15px;
+  margin-left: -9px;
+  padding: 0px 20px 20px 40px;
+}
+.a1 {
+    margin: 30px -30px 0px 60px;
+    color: hsl(229, 23%, 23%);
+}
+.a2 {
+    margin: -40px 0px 0px 150px;
+    color: hsl(229, 23%, 23%);
+}
+.a3 {
+    color: hsl(229, 23%, 23%);
+    margin: -40px 0px 0px 240px;
+}
+.b1 {
+    color: hsl(0, 0%, 59%);
+    margin: -20px 0px 0px 40px;
+}
+.b2 {
+    color: hsl(0, 0%, 59%);
+    margin: -38px 0px 0px 120px;
+}
+.b3 {
+    color: hsl(0, 0%, 59%);
+    margin: -38px 0px 0px 80px;
+}
